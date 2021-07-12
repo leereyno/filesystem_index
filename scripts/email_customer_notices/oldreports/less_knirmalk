@@ -1,0 +1,10 @@
+2019-07-22 15:23:08	2020-05-12 21:51:38	knirmalk	.
+2020-02-13 10:17:59	2020-02-13 10:17:59	knirmalk	./trial_kraken_db.sh
+2020-01-08 16:49:35	2020-01-09 16:19:31	knirmalk	./assembly_2020
+2020-01-08 21:19:26	2020-01-08 21:36:33	knirmalk	./assembly_2020/MS117_R2.trim.fastq.gz
+2020-01-08 21:36:35	2020-01-08 21:51:26	knirmalk	./assembly_2020/MS131_R2.trim.fastq.gz
+2020-01-08 22:27:22	2020-01-08 22:29:20	knirmalk	./assembly_2020/raw
+2019-09-19 20:33:30	2019-09-19 20:33:45	knirmalk	./assembly_2020/raw/MS117_R1.fastq.gz
+2019-09-19 20:33:57	2019-09-19 20:34:12	knirmalk	./assembly_2020/raw/MS117_R2.fastq.gz
+2020-01-08 21:19:30	2020-01-08 21:36:33	knirmalk	./assembly_2020/raw/MS117_2U.fqtrim.gz
+2020-01-08 21:19:28	2020-01-08 21:36:33	knirmalk	./assembly_2020/raw/MS117_1U.fqtrim.gz

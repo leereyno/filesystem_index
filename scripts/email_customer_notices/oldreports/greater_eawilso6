@@ -1,0 +1,10 @@
+2020-07-29 20:40:37	2020-07-31 12:16:15	eawilso6	./casp_MDFF
+2020-07-31 11:33:30	2020-07-31 11:33:30	eawilso6	./casp_MDFF/T1063_models
+2020-07-29 20:41:24	2020-07-31 12:17:31	eawilso6	./casp_MDFF/selected_models
+2020-07-31 14:13:05	2020-07-31 14:13:05	eawilso6	./casp_MDFF/selected_models/include-list.txt
+2020-07-29 20:41:34	2020-07-29 23:33:51	eawilso6	./casp_MDFF/selected_models/partial_extend_low_res
+2020-07-29 20:41:36	2020-07-29 20:41:36	eawilso6	./casp_MDFF/selected_models/partial_extend_low_res/partial_extend_low_res_docked-grid.pdb
+2020-07-29 23:33:48	2020-07-29 23:33:48	eawilso6	./casp_MDFF/selected_models/partial_extend_low_res/partial_extend_low_res_docked-step1.restart.coor.old
+2020-07-29 23:33:50	2020-07-29 23:33:50	eawilso6	./casp_MDFF/selected_models/partial_extend_low_res/partial_extend_low_res_docked-step1.restart.vel
+2020-07-29 20:41:50	2020-07-29 20:41:50	eawilso6	./casp_MDFF/selected_models/partial_extend_low_res/partial_extend_low_res_docked-step1.namd
+2020-07-29 20:41:38	2020-07-29 20:41:38	eawilso6	./casp_MDFF/selected_models/partial_extend_low_res/partial_extend_low_res_docked-extrabonds.txt
